@@ -59,6 +59,6 @@ bool Token::isHighValue() const {
 }
 
 std::string Token::toString() const {
-	return std::string("Token's color is ") + color + " and has value " + std::to_string(this->value) + " ";
+	return std::string("Token's color is ") + color + " and has value " + std::to_string(this->value);
 }
 
