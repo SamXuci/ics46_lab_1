@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/intro_lab.dir/src/main.cpp.o CMakeFiles/intro_lab.dir/src/Bag.cpp.o CMakeFiles/intro_lab.dir/src/Token.cpp.o -o bin/intro_lab 
